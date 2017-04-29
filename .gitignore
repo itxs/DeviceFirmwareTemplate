@@ -1,0 +1,9 @@
+Debug/
+*.html
+*.png
+MWARE/FatFs/doc/
+*.url
+MWARE/STemWin/Lib/
+MWARE/STemWin/Software/
+*.pdf
+MWARE/STemWin/Simulation/

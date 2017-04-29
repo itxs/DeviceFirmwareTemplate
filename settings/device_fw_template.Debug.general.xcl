@@ -1,0 +1,15 @@
+"E:\Program Files\IAR 7503\arm\bin\armproc.dll" 
+
+"E:\Program Files\IAR 7503\arm\bin\armstlink2.dll" 
+
+"C:\embedded\device_fw_template\Debug\Exe\c.out" 
+
+--plugin "E:\Program Files\IAR 7503\arm\bin\armbat.dll" 
+
+--device_macro "E:\Program Files\IAR 7503\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "C:\embedded\device_fw_template\device_fw_template.board" 
+
+
+
+
