@@ -2,7 +2,7 @@
 
 <project>
   <fileVersion>2</fileVersion>
-  <fileChecksum>245511485</fileChecksum>
+  <fileChecksum>4055632902</fileChecksum>
   <configuration>
     <name>Debug</name>
     <outputs>
@@ -362,7 +362,7 @@
       <file>$PROJ_DIR$\MWARE\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c</file>
       <file>$PROJ_DIR$\MWARE\STM32_USB_Device_Library\Core\Src\usbd_core.c</file>
       <file>$PROJ_DIR$\MWARE\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c</file>
-      <file>$PROJ_DIR$\readme.md</file>
+      <file>$PROJ_DIR$\README.md</file>
       <file>$PROJ_DIR$\Debug\List\usbd_ctlreq.s</file>
       <file>$PROJ_DIR$\Debug\Obj\i2c.o</file>
       <file>$PROJ_DIR$\Debug\Obj\i2c.pbi</file>
@@ -1890,6 +1890,10 @@
         </tool>
       </inputs>
     </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
   </configuration>
   <configuration>
     <name>Release</name>

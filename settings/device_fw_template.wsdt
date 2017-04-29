@@ -139,7 +139,19 @@
           <SelStart2>1525</SelStart2>
           <SelEnd2>1525</SelEnd2>
         </Tab>
-        <ActiveTab>1</ActiveTab>
+        <Tab>
+          <Factory>TextEditor</Factory>
+          <Filename>$WS_DIR$\README.md</Filename>
+          <XPos>0</XPos>
+          <YPos>0</YPos>
+          <SelStart>0</SelStart>
+          <SelEnd>0</SelEnd>
+          <XPos2>0</XPos2>
+          <YPos2>0</YPos2>
+          <SelStart2>1907</SelStart2>
+          <SelEnd2>1907</SelEnd2>
+        </Tab>
+        <ActiveTab>2</ActiveTab>
       </Pane>
       <ActivePane>0</ActivePane>
       <Sizes>
